@@ -62,6 +62,7 @@ Top 10 State Wise Sales:
 
 Texas and Virginia are the highest contributors.
 
+
 🧠 Key Insights
 West and South regions are most profitable, suggesting regional expansion opportunities.
 
@@ -71,12 +72,14 @@ The sales decline in 2023 requires root-cause analysis (e.g., market shift, inve
 
 Arts & Entertainment products are the highest selling — good for future stocking decisions.
 
+
 🛠️ Tools & Skills Used
 Power BI (Data modeling, DAX, Visualizations)
 
 Interactive Charts: Bar, Column, Treemap, Line Graph, Donut Chart
 
 Business Analysis & KPI Tracking.
+
 
 🧩Project Outcome
 Business can now track sales, cost, and inventory clearly
