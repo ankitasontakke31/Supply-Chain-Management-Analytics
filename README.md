@@ -3,7 +3,8 @@
 ✅ Project Overview
 This project presents a Supply Chain Management Dashboard created using Power BI, which enables stakeholders to monitor and analyze key metrics such as total sales, costs, product performance, region-wise trends, and customer segments — all in one centralized, interactive dashboard.
 
- Business Problem
+
+🔍Business Problem
 The company faced challenges in:
 
 Tracking sales trends across states, regions, and stores.
@@ -13,6 +14,7 @@ Identifying low-performing and top-performing products.
 Understanding customer behavior and purchase methods.
 
 Lacking clear visibility into sales growth and regional contribution.
+
 
 🎯 Solution
 A dynamic Power BI dashboard was built to:
