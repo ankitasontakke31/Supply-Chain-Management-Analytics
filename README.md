@@ -1,4 +1,4 @@
-# 📊 Supply Chain Management Dashboard – Power BI Project
+## 📊 Supply Chain Management Dashboard – Power BI Project
 
 ## ✅ Project Overview
 This project presents a Supply Chain Management Dashboard created using Power BI, which enables stakeholders to monitor and analyze key metrics such as total sales, costs, product performance, region-wise trends, and customer segments — all in one centralized, interactive dashboard.
